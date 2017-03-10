@@ -1,0 +1,23 @@
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance\bin\AccountAtAGlance.dll
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance\bin\AccountAtAGlance.pdb
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance\obj\Debug\AccountAtAGlance.dll
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance\obj\Debug\AccountAtAGlance.pdb
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance\bin\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance\bin\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance\bin\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance\bin\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance\bin\EntityFramework.dll
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance\bin\EntityFramework.xml
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance\bin\AccountAtAGlance.dll
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance\bin\AccountAtAGlance.pdb
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance\bin\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance\bin\AccountAtAGlance.Repository.dll
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance\bin\EntityFramework.dll
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance\bin\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance\bin\AccountAtAGlance.Repository.pdb
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance\bin\EntityFramework.xml
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance\obj\Debug\AccountAtAGlance.dll
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance\obj\Debug\AccountAtAGlance.pdb
+\\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\HTML5 Application Development\Module2\Code\Before\AccountAtAGlance\AccountAtAGlance\obj\Debug\ResolveAssemblyReference.cache

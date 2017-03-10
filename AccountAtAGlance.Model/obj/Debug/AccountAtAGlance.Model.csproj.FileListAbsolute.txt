@@ -1,0 +1,11 @@
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Desktop\Code\After\AccountAtAGlance\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance.Model\obj\Debug\AccountAtAGlance.Model.pdb
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.dll
+C:\Users\wahlind\Desktop\Code\Before\AccountAtAGlance\AccountAtAGlance.Model\bin\Debug\AccountAtAGlance.Model.pdb
+\\WAHLIND-I7\DDrive\Wahlin Consulting\The Wahlin Group\Courses\PluralSight\HTML5 Application Development\Module2\Code\Before\AccountAtAGlance\AccountAtAGlance.Model\obj\Debug\ResolveAssemblyReference.cache
